@@ -49,7 +49,7 @@ This project was created to practice:
 If hosted on GitHub Pages, add your live link here:
 
 ```
-https://your-username.github.io/spotify-clone/
+Available soon..
 ```
 
 ## 📚 What I Learned
@@ -65,3 +65,6 @@ https://your-username.github.io/spotify-clone/
 * Music player controls
 * Dynamic playlist loading
 * Responsive design improvements
+
+## Author 
+Juhaib Husain

@@ -44,6 +44,10 @@ This project was created to practice:
 2. Open the project folder
 3. Open `index.html` in your browser
 
+## 📸 Preview
+
+![Spotify Clone UI](images/spotify-preview.png)
+
 ## 🔗 Live Demo
 
 If hosted on GitHub Pages, add your live link here:

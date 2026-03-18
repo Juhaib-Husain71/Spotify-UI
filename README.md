@@ -50,8 +50,6 @@ This project was created to practice:
 
 ## 🔗 Live Demo
 
-If hosted on GitHub Pages, add your live link here:
-
 ```
 Available soon..
 ```

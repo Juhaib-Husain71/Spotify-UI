@@ -140,6 +140,17 @@ body{
     overflow: auto;
     padding-left: 2.5rem;
 }
+.main-content::-webkit-scrollbar-thumb{
+  background: gray;
+  border-radius: 10px;
+}
+.main-content::-webkit-scrollbar{
+    width: 0;
+}
+.main-content:hover::-webkit-scrollbar{
+    width: 8px;
+}
+
 .music-player{
     background-color: black;
     width: 100%;
